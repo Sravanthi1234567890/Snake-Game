@@ -1,1 +1,2 @@
 # Snake-Game
+In this project, I developed a classic Snake game using HTML, CSS, and JavaScript. The game features a grid-based interface where the player controls the movement of a snake, which grows in length as it consumes food items that appear on the screen. HTML was used for the structure of the game canvas, CSS for styling the elements, and JavaScript to handle the game logic, including the snake's movement, collision detection, and scoring system. The objective of the game is to grow the snake as long as possible without colliding with the walls or itself.
